@@ -1,0 +1,3 @@
+20221002	166472964017:54:00	cf4d71ba-bbfb-4807-bd79-07cf3031383f	TypeError: res.sendFil is not a function 
+20221002	166473152018:25:20	92c06a3c-11bb-4d3f-8101-16cf0ca0d252	Error: ENOENT: no such file or directory, stat 'C:\Users\Samahd\Desktop\expressjs\views\subdir\index.html' 
+20221003	166481707418:11:14	ddb5a6ff-d40e-4999-9e8d-4915f2d856c6	ReferenceError: user is not defined 

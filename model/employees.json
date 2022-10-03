@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "firstname": "samahd",
+        "role": "admin"
+    },
+    {
+        "id": 2,
+        "firstname": "david",
+        "role": "admin"
+    }
+]
